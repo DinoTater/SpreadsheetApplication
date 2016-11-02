@@ -1,0 +1,5 @@
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb

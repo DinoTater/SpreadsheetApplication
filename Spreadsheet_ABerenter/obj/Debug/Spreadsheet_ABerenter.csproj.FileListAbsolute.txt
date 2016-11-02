@@ -1,0 +1,11 @@
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\bin\Debug\Spreadsheet_ABerenter.exe.config
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\bin\Debug\Spreadsheet_ABerenter.exe
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\bin\Debug\Spreadsheet_ABerenter.pdb
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\obj\Debug\Spreadsheet_ABerenter.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\obj\Debug\Spreadsheet_ABerenter.Butter.resources
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\obj\Debug\Spreadsheet_ABerenter.Properties.Resources.resources
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\obj\Debug\Spreadsheet_ABerenter.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\obj\Debug\Spreadsheet_ABerenter.exe
+C:\Users\Adam\Desktop\CS321\Projects\Spreadsheet_ABerenter\Spreadsheet_ABerenter\obj\Debug\Spreadsheet_ABerenter.pdb
